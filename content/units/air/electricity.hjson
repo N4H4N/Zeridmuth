@@ -36,7 +36,7 @@ weapons: [
 		
 	    mirror: false
 	    alternate: false
-        reload: 225
+        reload: 270
         shootSound: "railgun"
         bullet: {
             type: BasicBulletType
@@ -60,10 +60,10 @@ pierceBuilding: true
 	    alternate: true
         reload: 120
         shootSound: "missileLaunch"
-rotation: 225
+rotation: 337.5
 shoot:{
   shots: 8
-  shotDelay: 3
+  shotDelay: 6
 }
         bullet: {
             type: MissileBulletType
